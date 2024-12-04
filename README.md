@@ -25,7 +25,7 @@ Dark Theme Design: Sleek and modern visuals for an enjoyable gaming experience.
 
 Clone the Repository:
 
-// git clone https://github.com/your-username/snake-game.git
+// git clone (https://github.com/Adel-cx/JS-Final-Project.git)
 
 Navigate to the Project Folder
 // cd snake-game
