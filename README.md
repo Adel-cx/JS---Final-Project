@@ -63,7 +63,7 @@ Open index.html in your browser to start playing!
 1. Dynamic Food Regeneration
    📜 Code:
 
-/\*
+
 
 // Dynamic food regeneration when food is eaten
 for (let i = 0; i < foodItems.length; i++) {
@@ -78,7 +78,7 @@ foodItems[i] = new Food(); // Replace eaten food with new food
 }
 }
 
-\*/
+
 
 💡 How It Works:
 
